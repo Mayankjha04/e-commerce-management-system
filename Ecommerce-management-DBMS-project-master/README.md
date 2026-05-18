@@ -1,4 +1,4 @@
-# Ecommerce Management DBMS Project
+# Ecommerce Management 
 
 
 ## Pre-requisite
